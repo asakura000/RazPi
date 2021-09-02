@@ -1,1 +1,3 @@
 # RazPi
+
+sample scripts 
